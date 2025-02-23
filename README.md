@@ -35,7 +35,7 @@ Workflow GPT は、AI チャットの会話をフローチャートとして視�
 1. リポジトリのクローン:
 
    ```bash
-   git clone https://github.com/yourusername/reactflow-chat.git
+   git clone https://github.com/champaya/workflow-gpt.git
    cd reactflow-chat
    ```
 
