@@ -73,6 +73,12 @@ Workflow GPT は、AI チャットの会話をフローチャートとして視�
    ```bash
    pnpm dev
    ```
+   
+   or
+
+   ```bash
+   npm run dev
+   ```
 
    アプリケーションは http://localhost:3000 で利用可能になります。
 
